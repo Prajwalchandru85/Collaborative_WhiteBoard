@@ -21,7 +21,7 @@ _A real-time, multiplayer drawing board built with [Next.js](https://nextjs.org)
 ### 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/Prajwalchandru85/Collaborative_WhiteBoard.git
 cd whiteboard
 ```
  
